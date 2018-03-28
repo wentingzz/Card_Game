@@ -1,0 +1,12 @@
+from Player import Player
+
+class AIPlayer(Player):
+    def __init__(self):
+        pass
+
+    def play(self):
+        pass
+
+    def endTurn(self):
+        pass
+
